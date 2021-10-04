@@ -633,8 +633,8 @@ Check out all the super awesome [contributors](https://github.com/joshbuchea/HEA
 
 **Josh Buchea**
 
-- GitHub: [@joshbuchea](https://github.com/imhridoy71)
-- Twitter: [@joshbuchea](https://twitter.com/itshridoy71)
+- GitHub: [@imhridoy71](https://github.com/imhridoy71)
+- Twitter: [@itshridoy](https://twitter.com/itshridoy71)
 
 ## 💛 Support
 
